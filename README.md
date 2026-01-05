@@ -47,15 +47,11 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SkFahimuddin&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SkFahimuddin&theme=tokyonight" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SkFahimuddin&theme=radical)](https://git.io/streak-stats)
 
----
+
+
 
 ## 🌐 Connect With Me
 <p align="left">
