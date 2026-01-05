@@ -1,15 +1,18 @@
 <div align="center">
-  <img width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fahim%20Uddin&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20FIDE%20Chess%20Player%20•%20Full-Stack%20Developer&descAlignY=55&descAlign=50" width="100%" />
 </div>
-
-<h1 align="center">Sk Fahimuddin</h1>
-<h3 align="center">AI Engineer • FIDE Chess Player • Full-Stack Developer</h3>
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Welcome+to+my+GitHub+Profile!;Bridging+Chess+Strategy+with+AI+Intelligence;Building+Tomorrow's+Intelligent+Systems" alt="Typing SVG" />
+</div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SkFahimuddin&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
-
-<p align="center">
+<div align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding" />
+</div>
+<br/>
+<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" />
+<p align="left">
   <em>"Bridging strategic thinking from chess with computational intelligence in AI"</em>
 </p>
 
