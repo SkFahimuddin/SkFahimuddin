@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fahim%20Uddin&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20FIDE%20Chess%20Player%20•%20Full-Stack%20Developer&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sk%20Fahimuddin&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20FIDE%20Chess%20Player%20•%20Full-Stack%20Developer&descAlignY=55&descAlign=50" width="100%" />
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Welcome+to+my+GitHub+Profile!;Bridging+Chess+Strategy+with+AI+Intelligence;Building+Tomorrow's+Intelligent+Systems" alt="Typing SVG" />
