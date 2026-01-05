@@ -1,3 +1,5 @@
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 <h1 align="center">Hi 👋, I'm Fahim</h1>
 <h3 align="center">AI Enthusiast • Chess Player • Software Developer ♟️🤖</h3>
 
@@ -6,32 +8,47 @@
 </p>
 
 ---
-<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### 🧠 About Me
-- 🎓 B.Tech CSE (AI)
-- 🤖 Passionate about **Artificial Intelligence & ML**
-- ♟️ Competitive **Chess player (Rapid & Classical)**
+## 🧠 About Me
+- 🎓 B.Tech CSE (Artificial Intelligence)
+- 🤖 Passionate about **AI, ML & intelligent systems**
+- ♟️ **FIDE-rated Chess Player** (Rapid & Classical)
 - 🚀 Love building real-world projects
 - ☕ Coffee-powered coder
 
 ---
 
-### 🛠️ Languages & Tools
+## ♟️ Chess Profile
+- 🏆 **FIDE Player**
+- 🔗 FIDE Profile: https://ratings.fide.com/profile/547080922
+- ♞ Playing Style: Tactical & Aggressive
+- 🎯 Focus: Rapid & Classical
+
+---
+
+## 🛠️ Languages & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,git,github,linux" />
 </p>
 
 ---
 
-### ♟️ Chess + Coding Mindset
-> *“Chess taught me patience, AI taught me logic, and coding taught me execution.”*
+## ♞ AI + Chess Mindset
+> *“Chess taught me strategy, AI taught me intelligence, and coding taught me execution.”*
 
 ---
 
-### 📊 GitHub Stats
+## 📂 Featured Projects
+- 📚 **PagePalette** – Book recommendation web app  
+- 🏋️ **FitTech** – Smart diet & exercise recommendation system  
+- 🎨 **AI Image Generator** – Ghibli-style AI image generation  
+- ♟️ **Chess Analysis Experiments** – Openings & game review tools  
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SkFahimuddin&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SkFahimuddin&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
@@ -40,7 +57,7 @@
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 <p align="left">
   <a href="https://github.com/SkFahimuddin" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github" />
@@ -52,5 +69,5 @@
 
 ---
 
-### ⚡ Fun Fact
-> I calculate chess positions like algorithms — deep, tactical, and aggressive ♞
+## ⚡ Fun Fact
+> I calculate chess positions like algorithms — deep, precise, and tactical ♞
