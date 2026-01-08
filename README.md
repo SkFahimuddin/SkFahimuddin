@@ -71,10 +71,15 @@ As a **FIDE-rated chess player**, I bring strategic thinking and pattern recogni
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SkFahimuddin&theme=radical)](https://git.io/streak-stats)
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkFahimuddin&theme=radical)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SkFahimuddin&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SkFahimuddin&theme=radical)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SkFahimuddin&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SkFahimuddin&theme=radical)
+
 
 ---
 
